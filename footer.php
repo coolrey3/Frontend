@@ -18,7 +18,7 @@ sort($footer);
 
 
 echo "<div style='height:20px;color:white;
-      background-color:#222;bottom:0;text-align:center;
+      background-color:#08c;bottom:0;text-align:center;
       width:100%;position:absolute;>";
 
 echo "
